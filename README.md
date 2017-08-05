@@ -21,17 +21,16 @@ An evidence based Initial Coin Offering insurance to make crowdsale more protect
 - The rationality of the crowdsale project
 - Whether the crowdsale terms are ethical or not.
 
-### Inspiration behind the idea.
+### Inspiration behind the idea.
 
 The original idea was formed when Makoto and other team members created a project called BountyMax which is a marketplace for automatic bug bounty programs among security researchers. It was developed as part of Thomson Reuters HackEthon and won the runner up prize.
 
 During the [interview with CryptoCoinsnews](https://www.cryptocoinsnews.com/blockchain-based-sports-game-wins-thomson-reuters-hackethon/), Makoto stated the possibility of the concept expanded into insurance product as follows.
 
-```
-“At our PoC, each contract owner puts rewards for their own contract violation. The amount will be small unless you have big pockets. We can group the contracts together and have compound bounties so that a researcher who breaks one of the contracts can get a payout of the entire bounties combined.
+>“At our PoC, each contract owner puts rewards for their own contract violation. The amount will be small unless you have big pockets. We can group the contracts together and have compound bounties so that a researcher who breaks one of the contracts can get a payout of the entire bounties combined.
 
-Once we get enough data about the probability of contract violations, insurers can (potentially) underwrite policies so that we can have higher bounties than total rewards (aka premium) combined.”
-```
+>Once we get enough data about the probability of contract violations, insurers can (potentially) underwrite policies so that we can have higher bounties than total rewards (aka premium) combined.”
+
 
 This project is to reimagine the original concept tailored to meet the need of the current crowdsale smart contract codes.
 
