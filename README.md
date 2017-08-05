@@ -14,13 +14,29 @@ An evidence based Initial Coin Offering insurance to make crowdsale more protect
 
 - Provide cyber insurance policy for crowdsale investors and/or crowdsale companies that lost their cryptocurrencies during the crowdsale period due to malicious hack caused by bugs in the smart contract.
 - Premium is calculated based on manual/automatic assessment of the risks of each crowdsale smart contract.
+- Payout occurs when bug was found during bug bounty period to cover the reward to security researchers as well as contract bug is bleached during the crowdsale period.
 
 ### Out of scope
 
 - The rationality of the crowdsale project
 - Whether the crowdsale terms are ethical or not.
 
+### Inspiration behind the idea.
+
+The original idea was formed when Makoto and other team members created a project called BountyMax which is a marketplace for automatic bug bounty programs among security researchers. It was developed as part of Thomson Reuters HackEthon and won the runner up prize.
+
+During the [interview with CryptoCoinsnews](https://www.cryptocoinsnews.com/blockchain-based-sports-game-wins-thomson-reuters-hackethon/), Makoto stated the possibility of the concept expanded into insurance product as follows.
+
+```
+“At our PoC, each contract owner puts rewards for their own contract violation. The amount will be small unless you have big pockets. We can group the contracts together and have compound bounties so that a researcher who breaks one of the contracts can get a payout of the entire bounties combined.
+
+Once we get enough data about the probability of contract violations, insurers can (potentially) underwrite policies so that we can have higher bounties than total rewards (aka premium) combined.”
+```
+
+This project is to reimagine the original concept tailored to meet the need of the current crowdsale smart contract codes.
+
 ## Research topics
+
 
 ### How do you major the risk of crowdsale?
 
@@ -30,6 +46,11 @@ Majoring security risks can be done by the followings.
 - b. Categorise complexity and risk of the smart contract (assessed by security auditor)
 - c. Run automated analytics against smart contract to analyse risk level.
 - d. Go through security bounty program.
+
+### How do you market your product & services?
+
+- Partnership with existing crowdsale marketplaces.
+- Partnership with group of smart contract security auditors.
 
 ## Resources
 
@@ -54,9 +75,22 @@ Majoring security risks can be done by the followings.
 - [WeiFund bug bounty live honeypot](https://weifund.surge.sh/)
 - [Bug bounty smart contract](https://github.com/OpenZeppelin/zeppelin-solidity/blob/master/contracts/Bounty.sol)
 
-### Others: Current list of Crowdsale platform
+### Market: Current list of Crowdsale platform
 
 - https://coinlist.co
 - https://tokenmarket.net/ico-professional-services
 - https://coralfundraiser.com
 - http://weifund.io/
+
+### Market: ICO market size
+
+- https://www.coindesk.com/ico-investments-pass-vc-funding-in-blockchain-market-first/
+
+### Market: ICO related bugs and thefts
+
+-[THEDAO](http://www.coindesk.com/understanding-dao-hack-journalists/)
+-[InsureX](https://www.reddit.com/r/ethtrader/comments/6mjw57/insurex_twitter_and_slack_have_been_hacked_do_not/)
+-[CoinDash](https://hothardware.com/news/coindash-ico-hacked-ethereum-price-plummets
+https://www.ethnews.com/ethereum-name-service-launch-delayed-by-bugs)
+-[TokenCard](https://www.ethnews.com/tokencard-ico-bug-disproportionately-distributes-tokens)
+-[Parity Multisig](https://news.bitcoin.com/ethereums-parity-client-users-lose-millions-multi-sig-hack/)
