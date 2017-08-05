@@ -87,9 +87,9 @@ Majoring security risks can be done by the followings.
 
 ### Market: ICO related bugs and thefts
 
--[THEDAO](http://www.coindesk.com/understanding-dao-hack-journalists/)
--[InsureX](https://www.reddit.com/r/ethtrader/comments/6mjw57/insurex_twitter_and_slack_have_been_hacked_do_not/)
--[CoinDash](https://hothardware.com/news/coindash-ico-hacked-ethereum-price-plummets
+- [THEDAO](http://www.coindesk.com/understanding-dao-hack-journalists/)
+- [InsureX](https://www.reddit.com/r/ethtrader/comments/6mjw57/insurex_twitter_and_slack_have_been_hacked_do_not/)
+- [CoinDash](https://hothardware.com/news/coindash-ico-hacked-ethereum-price-plummets
 https://www.ethnews.com/ethereum-name-service-launch-delayed-by-bugs)
--[TokenCard](https://www.ethnews.com/tokencard-ico-bug-disproportionately-distributes-tokens)
--[Parity Multisig](https://news.bitcoin.com/ethereums-parity-client-users-lose-millions-multi-sig-hack/)
+- [TokenCard](https://www.ethnews.com/tokencard-ico-bug-disproportionately-distributes-tokens)
+- [Parity Multisig](https://news.bitcoin.com/ethereums-parity-client-users-lose-millions-multi-sig-hack/)
